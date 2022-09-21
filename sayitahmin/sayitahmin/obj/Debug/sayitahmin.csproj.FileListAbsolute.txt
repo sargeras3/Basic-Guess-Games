@@ -1,0 +1,8 @@
+C:\Users\Çağtay YALÇIN\source\repos\sayitahmin\sayitahmin\obj\Debug\sayitahmin.csproj.AssemblyReference.cache
+C:\Users\Çağtay YALÇIN\source\repos\sayitahmin\sayitahmin\obj\Debug\sayitahmin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Çağtay YALÇIN\source\repos\sayitahmin\sayitahmin\obj\Debug\sayitahmin.csproj.CoreCompileInputs.cache
+C:\Users\Çağtay YALÇIN\source\repos\sayitahmin\sayitahmin\bin\Debug\sayitahmin.exe.config
+C:\Users\Çağtay YALÇIN\source\repos\sayitahmin\sayitahmin\bin\Debug\sayitahmin.exe
+C:\Users\Çağtay YALÇIN\source\repos\sayitahmin\sayitahmin\bin\Debug\sayitahmin.pdb
+C:\Users\Çağtay YALÇIN\source\repos\sayitahmin\sayitahmin\obj\Debug\sayitahmin.exe
+C:\Users\Çağtay YALÇIN\source\repos\sayitahmin\sayitahmin\obj\Debug\sayitahmin.pdb
